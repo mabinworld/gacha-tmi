@@ -1,0 +1,20 @@
+{
+  "name": "gacha-tmi",
+  "version": "1.0.0",
+  "description": "GHCHA TMI Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabinworld/gacha-tmi.git"
+  },
+  "keywords": [],
+  "author": "Gabin and Chacha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mabinworld/gacha-tmi/issues"
+  },
+  "homepage": "https://github.com/mabinworld/gacha-tmi#readme"
+}
